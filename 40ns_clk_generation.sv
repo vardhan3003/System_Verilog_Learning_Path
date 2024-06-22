@@ -1,6 +1,6 @@
 // Write a function capable of generating a square waveform with the help of period(in nSec) and duty cycle(0 to 1). 
-The phase difference is assumed to be 0 for the entire system operation. 
-Verify function behavior by generating waveform for the signal clk with period: 40 nsec and duty cycle: 0.4
+//The phase difference is assumed to be 0 for the entire system operation. 
+//Verify function behavior by generating waveform for the signal clk with period: 40 nsec and duty cycle: 0.4
 
 //EDA Link: https://edaplayground.com/x/BC4F
 
